@@ -1,0 +1,57 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Masonry (1.1.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - SocketRocket (0.5.1)
+  - Toast (4.0.0)
+  - WeexSDK (0.24.0)
+  - WXDevtool (0.24.0):
+    - SocketRocket
+    - WeexSDK
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - Masonry (~> 1.1.0)
+  - SDWebImage
+  - Toast (~> 4.0.0)
+  - WeexSDK
+  - WXDevtool
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Masonry
+    - SDWebImage
+    - SocketRocket
+    - Toast
+    - WeexSDK
+    - WXDevtool
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  WeexSDK: 5bd35be9c035c67c84d1ba15712360bb0d0ba6b5
+  WXDevtool: 95b70c73c06fc3299d65bd53ba4b3e0b0087f3cb
+
+PODFILE CHECKSUM: 71136bec01278b0f19c58499d414525d9e3eea9a
+
+COCOAPODS: 1.7.3

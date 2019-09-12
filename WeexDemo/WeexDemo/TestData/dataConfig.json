@@ -1,0 +1,76 @@
+{
+	"name": "iOS Weex",
+	"url": "http://www.bejson.com",
+	"isLogin":1,
+	"list": [
+		{
+			"title": "四川成都出发到九寨沟牟尼沟",
+			"image_title": "卡片测试 1",
+			"image_url": "https://gw.alicdn.com/i1/2935198750/TB26GMgeOC9MuFjSZFoXXbUzFXa_!!2935198750.jpg",
+			"desc": [
+				{
+					"type": "text",
+					"value": "特价机票|班期:清明 3/27-4/2等",
+					"theme": "gray"
+				}
+			],
+			"tags": [
+				{
+					"type": "tag",
+					"value": "满100减20测试",
+					"style": {
+						"color": "#546E7A"
+					}
+				}
+			],
+			"price": "666",
+			"price_desc": "月售158笔｜1999+条评论"
+		},
+		{
+			"title": "四川成都出发到九寨沟牟尼沟 温泉3天2晚纯玩跟团旅游",
+			"image_title": "卡片测试 2",
+			"image_url": "https://gw.alicdn.com/i1/2935198750/TB26GMgeOC9MuFjSZFoXXbUzFXa_!!2935198750.jpg",
+			"desc": [
+				{
+					"type": "text",
+					"value": "特价机票|班期:清明 3/27-4/2等",
+					"theme": "gray"
+				}
+			],
+			"tags": [
+				{
+					"type": "tag",
+					"value": "满100减20测试",
+					"style": {
+						"color": "#546E7A"
+					}
+				}
+			],
+			"price": "888",
+			"price_desc": "月售58笔｜999+条评论"
+		},
+		{
+			"title": "四川成都出发到九寨沟牟尼沟 温泉3天2晚纯玩跟团旅游",
+			"image_title": "卡片测试 3",
+			"image_url": "https://gw.alicdn.com/i1/2935198750/TB26GMgeOC9MuFjSZFoXXbUzFXa_!!2935198750.jpg",
+			"desc": [
+				{
+					"type": "text",
+					"value": "特价机票|班期:清明 3/27-4/2等",
+					"theme": "gray"
+				}
+			],
+			"tags": [
+				{
+					"type": "tag",
+					"value": "满100减20测试",
+					"style": {
+						"color": "#546E7A"
+					}
+				}
+			],
+			"price": "999",
+			"price_desc": "月售358笔｜9999+条评论"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"name": "iOS Weex",
+	"url": "http://www.bejson.com",
+	"isLogin":1,
+	"list": [
+		{
+			"image_url": "https://gw.alicdn.com/i1/2935198750/TB26GMgeOC9MuFjSZFoXXbUzFXa_!!2935198750.jpg",
+			"title": "四川成都出发到普吉岛，10天半个月",
+			"price": "卖家ID：21112",
+			"price_desc": "卖家：火星旅游1"
+		},
+		{
+			"image_url": "https://gw.alicdn.com/i1/2935198750/TB26GMgeOC9MuFjSZFoXXbUzFXa_!!2935198750.jpg",
+			"title": "北京出发到长滩岛，10天半个月",
+			"price": "卖家ID：22112",
+			"price_desc": "卖家：火星旅游2"
+		},
+		{
+			"image_url": "https://gw.alicdn.com/i1/2935198750/TB26GMgeOC9MuFjSZFoXXbUzFXa_!!2935198750.jpg",
+			"title": "四川成都出发到迪拜 温泉23天22晚纯玩跟团旅游",
+			"price": "卖家ID：23112",
+			"price_desc": "卖家：火星旅游3"
+		}
+	]
+}
+
